@@ -322,10 +322,8 @@ namespace Assignment_Session5
 
             string modifiedString = ChangeChar(originalString, 6, 'P');
 
-            Console.WriteLine($"Original String: {originalString}"); //Route Academy
-            Console.WriteLine($"Modified String: {modifiedString}"); //Route Pcademy
-
-
+            Console.WriteLine($"Original String: {originalString}"); //Original String: Route Academy
+            Console.WriteLine($"Modified String: {modifiedString}"); //Modified String: Route Pcademy
 
             #endregion
 
