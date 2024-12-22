@@ -248,7 +248,7 @@ namespace Assignment_Session5
             Console.Write("Please Enter the first Number : ");
             bool input1 = int.TryParse(Console.ReadLine(), out int A);
 
-            Console.Write("Please Enter the Second Paramters : ");
+            Console.Write("Please Enter the Second Number : ");
             bool input2 = int.TryParse(Console.ReadLine(), out int B);
 
             int sumResult;
